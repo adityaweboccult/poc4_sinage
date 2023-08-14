@@ -1,0 +1,103 @@
+# albumentations
+# # comet_ml==3.33.8
+# # coremltools==6.3.0
+# Cython
+# dill
+# dvclive
+# easydict
+# fvcore.post20221221
+# gdown
+# h5py
+# imageio
+# ipython
+# lapx
+# loguru
+# matplotlib
+# motmetrics
+# mss
+# numpy
+# onnx
+# onnxruntime
+# onnxruntime_gpu==1.15.1
+# onnxsim==0.4.33
+# opencv_python==4.8.0.76
+# openvino==2023.0.1
+# # paddle==1.0.2
+# pafy==0.5.5
+# pandas==2.0.2
+# Pillow==9.5.0
+# protobuf
+# psutil==5.9.5
+# pycocotools==2.0.6
+# PyYAML==6.0.1
+# ray==2.6.2
+# Requests==2.31.0
+# rfconv==0.0.2b20210406
+# scikit_learn==1.3.0
+# scipy==1.11.1
+# seaborn==0.12.2
+# sentry_sdk==1.29.2
+# setuptools==68.0.0
+# tabulate==0.9.0
+# tensorflow==2.13.0
+# tensorflowjs==4.10.0
+# tensorrt==8.6.1
+# termcolor==2.3.0
+# tflite_runtime==2.13.0
+# tflite_support==0.4.4
+# thop==0.1.1.post2209072238
+# timm==0.8.13.dev0
+# torch==2.0.1
+# torchsummary==1.5.1
+# torchvision==0.15.2
+# tqdm==4.66.1
+# wandb==0.15.8
+# x2paddle==1.4.1
+# yacs==0.1.8
+# yt_dlp==2023.7.6
+
+
+
+
+huggingface_hub
+timm==0.8.13.dev0
+yt_dlp
+lapx>=0.5.2
+cython==0.29.35
+dotenv-python==0.0.1
+onnx==1.14.0
+onnxruntime
+pandas==2.0.2
+pillow==9.5.0
+pymongo==4.3.3
+pika
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+tqdm
+gdown
+requests
+psutil
+jsons
+numpy
+opencv-python
+loguru
+scikit-image
+scikit-learn
+torch
+torchvision>=0.10.0
+thop
+ninja
+tabulate
+tensorboard
+motmetrics
+filterpy
+h5py
+matplotlib
+scipy
+prettytable
+easydict
+pyyaml
+yacs
+termcolor
+torchsummary
+faiss-gpu

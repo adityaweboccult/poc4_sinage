@@ -1,0 +1,49 @@
+huggingface_hub
+timm==0.8.13.dev0
+yt_dlp
+lapx>=0.5.2
+cython==0.29.35
+dotenv-python==0.0.1
+onnx==1.14.0
+onnxruntime
+onnxruntime-gpu
+pandas==2.0.2
+pillow==9.5.0
+pymongo==4.3.3
+pika
+python-dateutil==2.8.2
+python-dotenv==1.0.0
+tqdm
+gdown
+requests
+psutil
+jsons
+numpy
+opencv-python
+loguru
+scikit-image
+scikit-learn
+torchvision>=0.10.0
+thop
+ninja
+tabulate
+tensorboard
+motmetrics
+filterpy
+h5py
+matplotlib
+scipy
+prettytable
+easydict
+pyyaml
+yacs
+termcolor
+torchsummary
+faiss-gpu
+# conda install pytorch torchvision torchaudio pytorch-cuda=11.8 -c pytorch -c nvidia
+
+
+# total time taken with cuda is 143.06627774238586
+# Average detection time 0.031763592759171524
+# Average recognition time 0.04230012322209545
+# Average tracking time 0.052024413396169
